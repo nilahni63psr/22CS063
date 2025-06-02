@@ -8,7 +8,7 @@ export default function TestForm() {
   {
        <NavLink to="/primecheck"></NavLink>
   }
-  if(input=='p')
+  if(input=='e')
     {
          <NavLink to="/evencheck"></NavLink>
     }
